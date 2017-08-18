@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel='stylesheet' href='css/styles.css' type='text/css' />
+  <script type="text/javascript">
+    function pingPongClick() {
+      console.log("Clicked");
+      console.log(document.getElementById("txt_pp").value);
+    }
+  </script>
+</head>
+
+
+<body>
+  <h1>Ping-Pong</h1>
+  <!-- <div class="about">
+    <h2>About Ping-Pong</h2>
+    <h3>created by</h3>
+    <p>syam kerai</p>
+    <h3>Github username</h3>
+    <p>syamkerai</p>
+  </div> -->
+  <div class="play">
+    <h2>Let's play!</h2>
+    <h4>Rules</h4>
+    <p>pingo pong will count up to your number form 1 with the following exceptions:</p>
+    <ol>
+      <li>Number divisible by 3 becomes "ping"</li>
+      <li>Numbers divisible by 5 becomes "pong"</li>
+      <li>Numbers divisible by 3 and 5 and becomes "pingpong"</li>
+    </ol>
+    <strong>Enter your number here:</strong><input type="number" name="pingpong" value="" id="txt_pp" />
+    <button type="button" name="btnping" onclick="pingPongClick()">Ping pong</button>
+    <ol>
+
+    </ol>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  background-color: orange;
+  text-align:center;
+  font-size: 50px;
+  padding: 30px;
+}
+.about{
+background-color: green;
+float: left;
+display: block;
+height: 100%;
+padding: 40px;
+
+}
+.play{
+  float: left;
+  display: block;
+  padding: 30px;
+}
+h3{
+  color: orange;
+}
