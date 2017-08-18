@@ -1,20 +1,20 @@
-Project tital
+Project title
 
- moringa prep independant project 2.
+ moringa prep independent project 2.
 
 Author syam kerai
-
-Motivation I was curious how the diffrent webpages adapt with diffren devices and how diffrent kind of computing markdown and mark up languages work.
 
 Tech/framework used
 
 Atom editor Google chrome
 
-Features i have intergrated diffrent view ports into the css to acommodate with all kind of diffrent view ports.
+Features
 
+A game of basic pingpong
 How to use?
 
-anitas webpage for a resturant.
+The user has to write a number and follow the instruction rules.
+
 MIT License
 
 Copyright (c) [2017] [syam kerai]
