@@ -1,6 +1,6 @@
 Project title
 
- moringa prep independent project 2.
+ moringa prep independent project 3.
 
 Author syam kerai
 
@@ -11,6 +11,7 @@ Atom editor Google chrome
 Features
 
 A game of basic pingpong
+
 How to use?
 
 The user has to write a number and follow the instruction rules.
